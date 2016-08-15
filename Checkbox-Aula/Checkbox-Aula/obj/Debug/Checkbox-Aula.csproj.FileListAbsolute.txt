@@ -1,0 +1,6 @@
+C:\Users\mauriciojunior\Desktop\Checkbox-Aula\Checkbox-Aula\bin\Checkbox-Aula.dll.config
+C:\Users\mauriciojunior\Desktop\Checkbox-Aula\Checkbox-Aula\bin\Checkbox-Aula.dll
+C:\Users\mauriciojunior\Desktop\Checkbox-Aula\Checkbox-Aula\bin\Checkbox-Aula.pdb
+C:\Users\mauriciojunior\Desktop\Checkbox-Aula\Checkbox-Aula\obj\Debug\Checkbox-Aula.csprojResolveAssemblyReference.cache
+C:\Users\mauriciojunior\Desktop\Checkbox-Aula\Checkbox-Aula\obj\Debug\Checkbox-Aula.dll
+C:\Users\mauriciojunior\Desktop\Checkbox-Aula\Checkbox-Aula\obj\Debug\Checkbox-Aula.pdb
